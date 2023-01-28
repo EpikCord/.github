@@ -1,4 +1,14 @@
-# <center> **EpikCord 👋**</center>
+<style>
+    h1 {
+        font-size: 3rem;
+        font-weight: 700;
+        line-height: 1.2;
+        margin: 0;
+        text-align: center;
+    }
+</style>
+
+# **EpikCord 👋**
 <br>
 
 [![GitHub stars](https://img.shields.io/github/stars/EpikCord/EpikCord.py)](https://github.com/EpikCord/EpikCord.py/stargazers)
