@@ -1,13 +1,3 @@
-<style>
-    h1 {
-        font-size: 3rem;
-        font-weight: 700;
-        line-height: 1.2;
-        margin: 0;
-        text-align: center;
-    }
-</style>
-
 # **EpikCord 👋**
 <br>
 
@@ -19,3 +9,13 @@
 🚀 Say hello to EpikCord! The ⚡fast and easy-to-learn Discord API wrapper built for Python 🐍. 
 
 Our goals are speed, ease of use, and consistency.
+
+<style>
+    h1 {
+        font-size: 3rem;
+        font-weight: 700;
+        line-height: 1.2;
+        margin: 0;
+        text-align: center;
+    }
+</style>
